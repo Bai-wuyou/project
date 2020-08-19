@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">zixun</string>
+    <string name="tuijian">推荐</string>
+    <string name="yaowen">要闻</string>
+    <string name="sixiang">思想</string>
+    <string name="wenyi">文艺</string>
+    <string name="kexue">科学</string>
+    <string name="jinri">今日要闻</string>
+
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='zixun'
+include ':app'
